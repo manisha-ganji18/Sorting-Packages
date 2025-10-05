@@ -1,12 +1,6 @@
 # Sorting-Packages
 Coding Challenge to sort packages
 
-# 📦 Thoughtful Sorting Challenge – Solution
-
-Hi there! 👋  
-This repository contains my Python solution for the **Thoughtful** robotic automation challenge.  
-The goal was to write a function that determines which stack a package should go to based on its **volume** and **mass**.
-
 ---
 
 ## 🎯 Objective
